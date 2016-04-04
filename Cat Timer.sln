@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4D1060E7-7FC1-B475-265A-731C83E68981}") = "Cat Timer", "Assembly-CSharp.csproj", "{C4CD87C5-AE89-06C2-E56E-0298EFD0C8BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4CD87C5-AE89-06C2-E56E-0298EFD0C8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4CD87C5-AE89-06C2-E56E-0298EFD0C8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4CD87C5-AE89-06C2-E56E-0298EFD0C8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4CD87C5-AE89-06C2-E56E-0298EFD0C8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
